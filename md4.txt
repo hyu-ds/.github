@@ -1,11 +1,4 @@
-<div style="display:inline-block;">
-    <h1 style="font-size:30px; float:left;">HYU Data Science &nbsp;
-    <img style="width:28px;" src="https://img.icons8.com/color/480/instagram-verification-badge.png"></h1>
-</div>
-
-# 🔥 백준 뿌셔뿌셔 🔥
-
-|단계|제목&nbsp;&nbsp;&nbsp;&nbsp;|설명|총 문제&nbsp;&nbsp;|난이도&nbsp;&nbsp;&nbsp;|
+|단계|제목|설명|총 문제|난이도|
 |---|---|---|---|---|
 |1|[입출력과 사칙연산](https://www.acmicpc.net/step/1)|입력, 출력과 사칙연산을 연습해 봅시다. Hello World!|14|<b>⑤</b> 브론즈 V ~ <b>④</b> 브론즈 Ⅳ|
 |2|[조건문](https://www.acmicpc.net/step/4)|if 등의 조건문을 사용해 봅시다.|7|<b>④</b> 브론즈 Ⅳ ~ <b>③</b> 브론즈 Ⅲ|
