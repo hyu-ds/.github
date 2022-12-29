@@ -1,3 +1,8 @@
+<style>
+    bronzebg{background-color: #a25b1f}
+    bronze{color: #a25b1f}
+</style>
+
 <div style="display:inline-block;">
     <h1 style="font-size:30px; float:left;">HYU Data Science &nbsp;
     <img style="width:28px;" src="https://img.icons8.com/color/480/instagram-verification-badge.png"></h1>
@@ -7,6 +12,7 @@
 
 |단계|제목|설명|총 문제|난이도|
 |---|---|---|---|---|
+|test|<bronze>test</bronze>|test|<bronzebg>test</bronzebg>|test
 |1|[입출력과 사칙연산](https://www.acmicpc.net/step/1)|입력, 출력과 사칙연산을 연습해 봅시다. Hello World!|14|<span style="background-color:#a25b1f;color:white"><b>⑤</b></span> <span style="color:#a25b1f">브론즈 V</span> ~ <span style="background-color:#a25b1f;color:white"><b>④</b></span> <span style="color:#a25b1f">브론즈 Ⅳ</span>|
 |2|[조건문](https://www.acmicpc.net/step/4)|if 등의 조건문을 사용해 봅시다.|7|<span style="background-color:#a25b1f;color:white"><b>④</b></span> <span style="color:#a25b1f">브론즈 Ⅳ</span> ~ <span style="background-color:#a25b1f;color:white"><b>③</b></span> <span style="color:#a25b1f">브론즈 Ⅲ</span>|
 |3|[반복문](https://www.acmicpc.net/step/3)|for, while 등의 반복문을 사용해 봅시다.|12|<span style="background-color:#a25b1f;color:white"><b>④</b></span> <span style="color:#a25b1f">브론즈 Ⅳ</span> ~ <span style="background-color:#a25b1f;color:white"><b>③</b></span> <span style="color:#a25b1f">브론즈 Ⅲ</span>|
