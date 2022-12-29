@@ -5,7 +5,7 @@
 
 # 🔥 백준 뿌셔뿌셔 🔥
 
-|<div style="width:10%">단계</div>|<div>제목</div>|설명|총<br>문제|<div style="width:15%">평균 난이도</div>|
+|<div style="width:15%">단계</div>|<div>제목</div>|설명|총<br>문제|<div style="width:25%">평균 난이도</div>|
 |:-|:---|:-|:------|:-------|
 |1|[입출력과 사칙연산](https://www.acmicpc.net/step/1)|입력, 출력과 사칙연산을 연습해 봅시다. Hello World!|14|브론즈 V <br>~ 브론즈 Ⅳ|
 |2|[조건문](https://www.acmicpc.net/step/4)|if 등의 조건문을 사용해 봅시다.|7|브론즈 Ⅳ <br>~ 브론즈 Ⅲ|
