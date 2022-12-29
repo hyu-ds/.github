@@ -5,8 +5,8 @@
 
 # 🔥 백준 뿌셔뿌셔 🔥
 
-|<div style="width:15%">단계</div>|<div>제목</div>|<div style="width:30%">설명</div>|총<br>문제|<div style="width:25%">평균 난이도</div>|
-|:-|:---|:-|:------|:-------|
+|단계|제목|설명|총 문제|난이도|
+|:---|:---|:---|:---|:---|
 |1|[입출력과 사칙연산](https://www.acmicpc.net/step/1)|입력, 출력과 사칙연산을 연습해 봅시다. Hello World!|14|브론즈 V <br>~ 브론즈 Ⅳ|
 |2|[조건문](https://www.acmicpc.net/step/4)|if 등의 조건문을 사용해 봅시다.|7|브론즈 Ⅳ <br>~ 브론즈 Ⅲ|
 |3|[반복문](https://www.acmicpc.net/step/3)|for, while 등의 반복문을 사용해 봅시다.|12|브론즈 Ⅳ <br>~ 브론즈 Ⅲ|
@@ -49,16 +49,16 @@
 |40|[강한 연결 요소](https://www.acmicpc.net/step/43)|Strongly connected component를 다뤄 봅시다.|8|플래티넘 Ⅲ <br>~ 플래티넘 Ⅱ|
 |41|[세그먼트 트리](https://www.acmicpc.net/step/35)|구간 쿼리를 효율적으로 수행하는 자료구조를 배워 봅시다.|8|플래티넘 V <br>~ 플래티넘 Ⅳ|
 |42|[스위핑](https://www.acmicpc.net/step/39)|스위핑 알고리즘을 배워 봅시다.|6|플래티넘 V <br>~ 플래티넘 Ⅳ|
-|43|[동적 계획법 4](https://www.acmicpc.net/step/47)|동적 계획법의 세계는 끝이 없습니다.|10|플래티넘 V <br>~ 플래티넘 Ⅳ|
-|44|[컨벡스 헐](https://www.acmicpc.net/step/37)|모든 점을 포함하는 가장 작은 볼록 다각형을 만들어 봅시다.|5|플래티넘 Ⅳ <br>~ 플래티넘 Ⅲ|
-|45|[이분 매칭](https://www.acmicpc.net/step/38)|이분 매칭 알고리즘에 대해 배워 봅시다.|6|플래티넘 Ⅲ <br>~ 플래티넘 Ⅱ|
-|46|[네트워크 플로우](https://www.acmicpc.net/step/36)|네트워크 플로우 알고리즘에 대해 알아봅시다.|8|플래티넘 Ⅲ <br>~ 플래티넘 Ⅱ|
-|47|[MCMF](https://www.acmicpc.net/step/42)|최소 비용으로 최대 유량을 흘려 봅시다.|4|플래티넘 Ⅱ <br>~ 플래티넘 I|
-|48|[더 어려운 수학](https://www.acmicpc.net/step/44)|포함-배제 정리, 빠른 소수 판정, 중국인의 나머지 정리 등을 다룹니다.|5|플래티넘 Ⅲ <br>~ 플래티넘 Ⅱ|
-|49|[고속 푸리에 변환](https://www.acmicpc.net/step/60)|두 다항식을 O(NlogN) 만에 곱할 수 있다고 하면 믿으시겠습니까? 놀랍게도 가능합니다!|5|플래티넘 I|
-|50|[문자열 알고리즘 2](https://www.acmicpc.net/step/28)|Manacher, Z, 접미사 배열, 아호 코라식을 배워 봅시다|11|플래티넘 Ⅳ <br>~ 플래티넘 Ⅲ|
-|51|[어려운 구간 쿼리](https://www.acmicpc.net/step/30)|세그먼트 트리 with lazy propagation과 Mo's algorithm을 배워 봅시다.|11|플래티넘 Ⅲ <br>~ 플래티넘 Ⅱ|
-|52|[세그먼트 트리 (Hard)](https://www.acmicpc.net/step/58)|지금까지 배운 세그먼트 트리 기술을 총동원해 봅시다.|7|플래티넘 Ⅱ <br>~ 플래티넘 I|
-|53|[동적 계획법 최적화](https://www.acmicpc.net/step/32)|다양한 동적 계획법 최적화 테크닉을 배워 봅시다.|8|플래티넘 I <br>~ 다이아몬드 V|
-|54|[매우 어려운 자료구조와 알고리즘 (수정 예정)](https://www.acmicpc.net/step/46)|일반적인 대회에서 통용되는 알고리즘의 최전선까지 가 봅시다.|10|다이아몬드 Ⅳ <br>~ 다이아몬드 Ⅲ|
+|43|[동적 계획법 4](https://www.acmicpc.net/step/47)|동적 계획법의 세계는 끝이 없습니다.|10|플래티넘V<br>~플래티넘Ⅳ|
+|44|[컨벡스 헐](https://www.acmicpc.net/step/37)|모든 점을 포함하는 가장 작은 볼록 다각형을 만들어 봅시다.|5|플래티넘Ⅳ<br>~플래티넘Ⅲ|
+|45|[이분 매칭](https://www.acmicpc.net/step/38)|이분 매칭 알고리즘에 대해 배워 봅시다.|6|플래티넘Ⅲ<br>~플래티넘Ⅱ|
+|46|[네트워크 플로우](https://www.acmicpc.net/step/36)|네트워크 플로우 알고리즘에 대해 알아봅시다.|8|플래티넘Ⅲ<br>~플래티넘Ⅱ|
+|47|[MCMF](https://www.acmicpc.net/step/42)|최소 비용으로 최대 유량을 흘려 봅시다.|4|플래티넘Ⅱ<br>~플래티넘I|
+|48|[더 어려운 수학](https://www.acmicpc.net/step/44)|포함-배제 정리, 빠른 소수 판정, 중국인의 나머지 정리 등을 다룹니다.|5|플래티넘Ⅲ<br>~플래티넘 Ⅱ|
+|49|[고속 푸리에 변환](https://www.acmicpc.net/step/60)|두 다항식을 O(NlogN) 만에 곱할 수 있다고 하면 믿으시겠습니까? 놀랍게도 가능합니다!|5|플래티넘I|
+|50|[문자열 알고리즘 2](https://www.acmicpc.net/step/28)|Manacher, Z, 접미사 배열, 아호 코라식을 배워 봅시다|11|플래티넘Ⅳ<br>~플래티넘Ⅲ|
+|51|[어려운 구간 쿼리](https://www.acmicpc.net/step/30)|세그먼트 트리 with lazy propagation과 Mo's algorithm을 배워 봅시다.|11|플래티넘Ⅲ <br>~플래티넘Ⅱ|
+|52|[세그먼트 트리 (Hard)](https://www.acmicpc.net/step/58)|지금까지 배운 세그먼트 트리 기술을 총동원해 봅시다.|7|플래티넘Ⅱ<br>~플래티넘I|
+|53|[동적 계획법 최적화](https://www.acmicpc.net/step/32)|다양한 동적 계획법 최적화 테크닉을 배워 봅시다.|8|플래티넘I<br>~다이아몬드V|
+|54|[매우 어려운 자료구조와 알고리즘 (수정 예정)](https://www.acmicpc.net/step/46)|일반적인 대회에서 통용되는 알고리즘의 최전선까지 가 봅시다.|10|다이아몬드Ⅳ<br>~다이아몬드Ⅲ|
 
