@@ -8,7 +8,7 @@ made by [Kim Dohoon](https://github.com/kdh-yu/)
 git add "파일 이름"  # 변경점이 있는 파일을 git에 추가! .은 모든 파일
 git commit -m "message"  # 변경 사항에 대한 커밋
 git push  # 연결된 레포지토리로 깃 업로드!
-git rm -r --cached "파일 이름"  # 원격 저장소에서 파일을 제거 (로컬 파일은 남음))
+git rm -r --cached "파일 이름"  # 원격 저장소에서 파일을 제거! .은 모든 파일 (로컬 파일은 남음)
 ```
 <br>
 
