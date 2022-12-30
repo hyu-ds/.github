@@ -1,3 +1,0 @@
-on: push
-markdown_extensions:
-    - attr_list

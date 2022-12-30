@@ -1,4 +1,6 @@
 # ✨ HYU Data Science ✨
+데사는 겨울방학에도 쉬지 않아
+<br>
 
 ## ⭐ 깃을 제대로 사용하자! 깃 명령어 모음 (일부)
 ```bash
@@ -10,9 +12,9 @@ git push  # 연결된 레포지토리로 깃 업로드!
 
 ## 😵‍💫 문제가 너무 안 풀리면?
 
-- [Python Tutor](https://pythontutor.com/){:target="_blank"} : 코드 흐름을 시각화!
-- [Stack Overflow](https://stackoverflow.com/){:target="_blank"} : 발생하는 거의 모든 문제에 대한 답변이 가능! 단 영어...
-
+- [Python Tutor](https://pythontutor.com/) : 코드 흐름을 시각화!
+- [Stack Overflow](https://stackoverflow.com/) : 발생하는 거의 모든 문제에 대한 답변이 가능! 단 영어...
+- [Discussion](https://github.com/orgs/hyu-ds/discussions) : 여기에 질문하면 누군가는 대답해줌!
 
 <br>
 
