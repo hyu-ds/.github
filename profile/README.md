@@ -1,16 +1,18 @@
 # ✨ HYU Data Science ✨
-데사는 겨울방학에도 쉬지 않아
+데사는 겨울방학에도 쉬지 않아  
+made by [Kim Dohoon](https://github.com/kdh-yu/)
 <br>
 
-## ⭐ 깃을 제대로 사용하자! 깃 명령어 모음 (일부)
+## ⭐ Git을 제대로 사용하자! 깃 명령어 모음 (일부) ⭐
 ```bash
 git add "파일 이름"  # 변경점이 있는 파일을 git에 추가! .은 모든 파일
 git commit -m "message"  # 변경 사항에 대한 커밋
 git push  # 연결된 레포지토리로 깃 업로드!
+git rm -r --cached "파일 이름"  # 원격 저장소에서 파일을 제거 (로컬 파일은 남음))
 ```
 <br>
 
-## 😵‍💫 문제가 너무 안 풀리면?
+## 😵‍💫 문제가 너무 안 풀리면? 😵‍💫
 
 - [Python Tutor](https://pythontutor.com/) : 코드 흐름을 시각화!
 - [Stack Overflow](https://stackoverflow.com/) : 발생하는 거의 모든 문제에 대한 답변이 가능! 단 영어...
