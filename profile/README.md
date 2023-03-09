@@ -1,5 +1,5 @@
 # ✨ HYU Data Science ✨
-데사는 겨울방학에도 쉬지 않아  
+데사는 코딩을 쉬지 않아  
 made by [Kim Dohoon](https://github.com/kdh-yu/)
 <br>
 
